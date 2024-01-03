@@ -1,0 +1,33 @@
+﻿  Circle.cpp
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Circle.cpp(26,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Circle.cpp(27,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Circle.cpp(38,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Circle.cpp(43,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Circle.cpp(67,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Circle.cpp(68,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CMP2801-2223 Coursework.cpp
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework.cpp(153,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework.cpp(154,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework.cpp(157,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework.cpp(157,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework.cpp(204,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework.cpp(207,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework.cpp(254,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework.cpp(257,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework.cpp(358,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Movable.cpp
+  Point.cpp
+  Rectangle.cpp
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Rectangle.cpp(17,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Rectangle.cpp(18,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Rectangle.cpp(59,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Rectangle.cpp(60,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Shape.cpp
+  Square.cpp
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Square.cpp(25,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Square.cpp(26,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Square.cpp(36,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Square.cpp(66,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\CMP2801-2223 Coursework\Square.cpp(67,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  CMP2801-2223 Coursework.vcxproj -> C:\Users\robcr\OneDrive\Documents\Advanced Programming Coursework\CMP2801-2223 Coursework\x64\Debug\CMP2801-2223 Coursework.exe
